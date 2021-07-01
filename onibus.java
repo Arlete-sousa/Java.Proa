@@ -33,4 +33,4 @@ class Onibus {
     public String returnLocal(){
         return this.local;
     }
-} //OBS: Não consegui rodar o programa.
+} //OBS: Não consegui rodar o programa, então não sei se funciona.
