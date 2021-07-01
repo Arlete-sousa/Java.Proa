@@ -36,4 +36,4 @@ public class programaOnibus{
 
 
 }
-} //OBS: Não consegui rodar o programa.
+} //OBS: Não consegui rodar o programa, então não sei se funciona.
