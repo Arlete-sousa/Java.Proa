@@ -24,7 +24,6 @@ public class programaOnibus{
 
         Onibus1.PararPrimeiraParada();
         Onibus1.descerPassageiros();
-        int quantidade_acentos = 0;
         System.out.println("aqui desceu 14 pessoas, agora no total temos " + (quantidade_acentos - 14));
 
         Onibus2.PararPrimeiraParada();
@@ -37,4 +36,4 @@ public class programaOnibus{
 
 
 }
-}
+} //OBS: Não consegui rodar o programa.
